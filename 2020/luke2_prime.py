@@ -1,5 +1,4 @@
 import time
-import math
 
 def get_primes(n):
     noprimes = set()
